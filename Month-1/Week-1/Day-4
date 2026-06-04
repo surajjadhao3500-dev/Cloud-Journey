@@ -1,0 +1,14 @@
+# Day 4
+
+Date: 4 June 2026
+
+## What I Learned Today
+- How to copy files using cp
+- How to rename and move files using mv
+- How to delete files using rm
+- How to search files using find
+- How to locate commands using which
+- Basic file management operations used on Linux servers
+
+## Next Goal
+Learn Linux permissions and ownership.
