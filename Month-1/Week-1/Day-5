@@ -1,0 +1,14 @@
+# Day 5
+
+Date: 5 June 2026
+
+## What I Learned Today
+- How to identify the current user
+- How Linux permissions work
+- Meaning of read, write and execute permissions
+- How to change permissions using chmod
+- How permissions affect application execution
+- Basic Linux security concepts
+
+## Next Goal
+Learn users, groups and ownership management.
